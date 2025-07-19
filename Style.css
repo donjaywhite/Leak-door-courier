@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #0d47a1;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+.hero {
+  background: #1976d2;
+  color: white;
+  padding: 4em;
+  text-align: center;
+}
+section {
+  padding: 2em;
+}
+form input, form button {
+  margin: 0.5em 0;
+  padding: 0.5em;
+  width: 100%;
+  max-width: 400px;
+}
+.btn {
+  background: #ff9800;
+  color: white;
+  padding: 0.7em 1.5em;
+  text-decoration: none;
+  display: inline-block;
+}
+footer {
+  background: #263238;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
