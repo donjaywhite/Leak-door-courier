@@ -1,0 +1,7 @@
+leak-door-courier/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── (images, logo, icons, etc.)
